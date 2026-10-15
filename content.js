@@ -90,6 +90,16 @@ const projects = [
     demo: 'https://your-username.github.io',
   },
   {
+  name: 'Budget Tracker',
+  kind: 'Finance App',
+  blurb: 'An offline Android app to track income and expenses, manage loans person by person, set monthly budget limits, and share PDF reports.',
+  stack: ['Flutter', 'Dart', 'SQLite', 'Provider'],
+  device: 'mobile',
+  image: 'images/budget-tracker.png',
+  github: 'https://github.com/your-username/budget-tracker',
+  demo: '',
+},
+  {
     name: 'Task Manager',
     kind: 'Productivity App',
     blurb: 'A full-stack task management app with real-time updates and authentication.',
