@@ -95,9 +95,9 @@ const projects = [
   blurb: 'An offline Android app to track income and expenses, manage loans person by person, set monthly budget limits, and share PDF reports.',
   stack: ['Flutter', 'Dart', 'SQLite', 'Provider'],
   device: 'mobile',
-  image: 'images/portfolio_my.png',
+  image: 'images/budget_tracker.png',
   github: 'https://github.com/your-username/budget-tracker',
-  demo: '',
+  demo: 'https://example.com',
 },
   {
     name: 'Task Manager',
